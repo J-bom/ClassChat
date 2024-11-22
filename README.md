@@ -10,7 +10,7 @@
 
 a text messaging tool in python that i made to make it easier to talk in class without alarming the teacher.
 
-====================================================================================================================
+================================================================================================================
 FEATURES:
   real time messaging - asynchronous messaging to provide a real time chatting experience
   chat rooms - talk with your friends over different rooms with the chat-room/room discovery features!
