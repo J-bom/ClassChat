@@ -158,7 +158,7 @@ def main():
         s.send(username.encode())
 
         print(f'\nsystem:> welcome to {roomnames[int(choice) - 1]}! enjoy your time :)')
-        print('system:> type quit to leave or /help for help')
+        print('system:> type quit to leave or /HELP for help')
         print(f'{color}:>',end='')
         rt = threading.Thread(target=recive, args=(s,))
         rt.start()
