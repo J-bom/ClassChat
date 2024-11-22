@@ -2,7 +2,7 @@
 CLASS CHAT  v0.3 made by j-bom
 <h4>
 a text messaging tool in python that i made to make it easier to talk in class without alarming the teacher.
-===========================================================================================
+==========================================================================
 <br>FEATURES:
   <br><br>real time messaging - asynchronous messaging to provide a real time chatting experience
   <br>chat rooms - talk with your friends over different rooms with the chat-room/room discovery features!
@@ -16,7 +16,7 @@ a text messaging tool in python that i made to make it easier to talk in class w
   <br>encrytion - chats will be encrypted with end to end encryption
   <br>image/file transfer support - transfering images and files through the chat.
 
-===========================================================================================
+==========================================================================
 <br>INSTALLATION AND USAGE:
 <br><left>1. clone this repo with: git clone https://github.com/J-bom/ClassChat.git
 <br><left>2. open the directory with the project files.
@@ -32,8 +32,8 @@ a text messaging tool in python that i made to make it easier to talk in class w
       <br>3b. type your username and wait until the room scan finishes
       <br>3c. select the number of the room you want to use and press enter
     <br>4. enjoy chatting!
-<br><br>===========================================================================================
+<br><br>==========================================================================
 <br>COMMANDS:
   <br>/HELP - shows available commands
   <br>/COLOR (color) - changes your message color to the selected color
-===========================================================================================
+==========================================================================
